@@ -29,5 +29,5 @@ $$
 F(t,T_{n-1},T_{n}) = F_n(t) = \frac{1}{\tau_n}\left(\frac{P_{OIS}(t,T_{n-1})}{P_{OIS}(t,T_{n})}-1\right).
 $$
 
-## References<a name="references"></a>
+## References[](#){name=references}
 1. Tacos and Burritos, Tacos Quarterly, April 2018.
