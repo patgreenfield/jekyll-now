@@ -30,5 +30,5 @@ F(t,T_{n-1},T_{n}) = F_n(t) = \frac{1}{\tau_n}\left(\frac{P_{OIS}(t,T_{n-1})}{P_
 $$
 
 ## References
-[1]: https://github.com/patgreenfield/patgreenfield.github.io/blob/master/_posts/2018-05-29-Mathjax-Test.md#references
+[1]: https://github.com/patgreenfield/patgreenfield.github.io/blob/master/_posts/Mathjax-Test#references
 1. Tacos and Burritos, Tacos Quarterly, April 2018.
