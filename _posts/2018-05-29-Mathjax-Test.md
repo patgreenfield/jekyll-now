@@ -3,6 +3,8 @@ layout: post
 title: Mathjax Test Post
 ---
 
+[Tacos et al.][1]
+
 OIS discounting is used in conjunction with Libor rates for pricing in the dual-curve setup. If we consider a fixed tenor structure
 
 \begin{align}
@@ -26,3 +28,6 @@ and
 $$
 F(t,T_{n-1},T_{n}) = F_n(t) = \frac{1}{\tau_n}\left(\frac{P_{OIS}(t,T_{n-1})}{P_{OIS}(t,T_{n})}-1\right).
 $$
+
+## References
+[1]: Tacos, Burritos and Cheese, Taco Quarterly, 2018.
