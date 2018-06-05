@@ -31,4 +31,4 @@ F(t,T_{n-1},T_{n}) = F_n(t) = \frac{1}{\tau_n}\left(\frac{P_{OIS}(t,T_{n-1})}{P_
 $$
 
 ## References
-1. Leif B.G. Andersen and Vladimir V. Piterbarg. Interest Rate Modelling, Volume I: Foundations and Vanilla Models. Atlantic Financial Press, 1st edition, 2010a.
+1. Leif B.G. Andersen and Vladimir V. Piterbarg. _Interest Rate Modelling, Volume I: Foundations and Vanilla Models_. Atlantic Financial Press, 1st edition, 2010a.
